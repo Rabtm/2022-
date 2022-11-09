@@ -1102,5 +1102,4 @@ summary(review_visitor_sum)
 
 summary(review_blog_sum)
 ```
-![KakaoTalk_20220902_154139442](https://user-images.githubusercontent.com/103248870/188075703-58b3b9df-480a-4db5-8657-b1a6a03afff2.png)
 
