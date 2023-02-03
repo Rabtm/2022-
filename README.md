@@ -1,3 +1,3 @@
-## 커피박 수거함 최적 입지 선
+## 커피박 수거함 최적 입지 선정
 ```
-<img width="562" alt="image" src="https://user-images.githubusercontent.com/103246477/216531148-1d3c9d32-ec19-406a-a339-ccf08f07e4c5.png">
+<img width="562" alt="최적 입지" src="https://user-images.githubusercontent.com/103246477/216531635-771b0180-2c60-43b9-a186-8b902bdf4181.png">
